@@ -9,6 +9,7 @@
 | **Google Scholar Enhanced** | 在谷歌学术搜索结果页添加 Cool Paper、AlphaXiv 和 PDF 的跳转按钮。 | [立即安装](https://cdn.jsdelivr.net/gh/Cu-OH-2/research-tools-scripts@master/google-scholar-enhanced/google-scholar-enhanced.user.js) |
 | **Cool Paper Enhanced** | 在 Cool Paper 论文列表页添加 arXiv ID 显示以及 AlphaXiv 和 PDF 的跳转按钮。 | [立即安装](https://cdn.jsdelivr.net/gh/Cu-OH-2/research-tools-scripts@master/cool-papers-enhanced/cool-papers-enhanced.user.js) |
 | **arXiv Enhanced** | 在 arXiv abs 页面添加 Cool Paper 和 AlphaXiv 的跳转按钮。 | [立即安装](https://cdn.jsdelivr.net/gh/Cu-OH-2/research-tools-scripts@master/arxiv-enhanced/arxiv-enhanced.user.js) |
+| **HuggingFace Papers Enhanced** | 在 HuggingFace 论文页面添加 Cool Papers 和 AlphaXiv 的跳转按钮。 | [立即安装](https://cdn.jsdelivr.net/gh/Cu-OH-2/research-tools-scripts@master/huggingface-papers-enhanced/huggingface-papers-enhanced.user.js) |
 
 ## 📸 功能展示
 
@@ -34,6 +35,14 @@
 
 <p align="center">
   <img src="arxiv-enhanced/screenshot-ax.png" alt="arXiv Enhanced">
+</p>
+
+### 4. HuggingFace Papers Enhanced
+
+在 HuggingFace 论文详情页面添加与原生风格一致的 Cool Papers 和 AlphaXiv 的快捷跳转按钮。
+
+<p align="center">
+  <img src="huggingface-papers-enhanced/screenshot-hf.png" alt="HuggingFace Papers Enhanced">
 </p>
 
 ## 🛠 安装与使用
