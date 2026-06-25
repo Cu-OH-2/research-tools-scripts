@@ -48,7 +48,7 @@
         container.appendChild(title);
 
         // 创建并添加按钮
-        const coolBtn = createBtn('Cool Paper', `https://papers.cool/arxiv/${arxivId}`, '#27ae60'); // 绿色
+        const coolBtn = createBtn('Cool Papers', `https://papers.cool/arxiv/${arxivId}`, '#27ae60'); // 绿色
         const alphaBtn = createBtn('AlphaXiv', `https://www.alphaxiv.org/abs/${arxivId}`, '#e74c3c'); // 红色
 
         container.appendChild(coolBtn);

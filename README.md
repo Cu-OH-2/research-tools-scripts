@@ -6,9 +6,9 @@
 
 | 脚本名称 | 功能描述 | 安装链接 |
 | :--- | :--- | :--- |
-| **Google Scholar Enhanced** | 在谷歌学术搜索结果页添加 Cool Paper、AlphaXiv 和 PDF 的跳转按钮。 | [立即安装](https://cdn.jsdelivr.net/gh/Cu-OH-2/research-tools-scripts@master/google-scholar-enhanced/google-scholar-enhanced.user.js) |
-| **Cool Paper Enhanced** | 在 Cool Paper 论文列表页添加 arXiv ID 显示以及 AlphaXiv 和 PDF 的跳转按钮。 | [立即安装](https://cdn.jsdelivr.net/gh/Cu-OH-2/research-tools-scripts@master/cool-papers-enhanced/cool-papers-enhanced.user.js) |
-| **arXiv Enhanced** | 在 arXiv abs 页面添加 Cool Paper 和 AlphaXiv 的跳转按钮。 | [立即安装](https://cdn.jsdelivr.net/gh/Cu-OH-2/research-tools-scripts@master/arxiv-enhanced/arxiv-enhanced.user.js) |
+| **Google Scholar Enhanced** | 在谷歌学术搜索结果页添加 Cool Papers、AlphaXiv 和 PDF 的跳转按钮。 | [立即安装](https://cdn.jsdelivr.net/gh/Cu-OH-2/research-tools-scripts@master/google-scholar-enhanced/google-scholar-enhanced.user.js) |
+| **Cool Papers Enhanced** | 在 Cool Papers 论文列表页添加 arXiv ID 显示以及 AlphaXiv 和 PDF 的跳转按钮。 | [立即安装](https://cdn.jsdelivr.net/gh/Cu-OH-2/research-tools-scripts@master/cool-papers-enhanced/cool-papers-enhanced.user.js) |
+| **arXiv Enhanced** | 在 arXiv abs 页面添加 Cool Papers 和 AlphaXiv 的跳转按钮。 | [立即安装](https://cdn.jsdelivr.net/gh/Cu-OH-2/research-tools-scripts@master/arxiv-enhanced/arxiv-enhanced.user.js) |
 | **HuggingFace Papers Enhanced** | 在 HuggingFace 论文页面添加 Cool Papers 和 AlphaXiv 的跳转按钮。 | [立即安装](https://cdn.jsdelivr.net/gh/Cu-OH-2/research-tools-scripts@master/huggingface-papers-enhanced/huggingface-papers-enhanced.user.js) |
 
 ## 📸 功能展示
@@ -21,12 +21,12 @@
   <img src="google-scholar-enhanced/screenshot-gs.png" alt="Google Scholar Enhanced">
 </p>
 
-### 2. Cool Paper Enhanced
+### 2. Cool Papers Enhanced
 
-补全 Cool Paper 缺失的 arXiv ID 信息，并提供一键跳转阅读/讨论功能。
+补全 Cool Papers 缺失的 arXiv ID 信息，并提供一键跳转阅读/讨论功能。
 
 <p align="center">
-  <img src="cool-papers-enhanced/screenshot-cp.png" alt="Cool Paper Enhanced">
+  <img src="cool-papers-enhanced/screenshot-cp.png" alt="Cool Papers Enhanced">
 </p>
 
 ### 3. arXiv Enhanced
